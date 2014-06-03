@@ -1,5 +1,7 @@
 var RadioView = Ember.View.extend({
-  templateName: 'views/radio'
+  tagName: 'input',
+  type: 'radio',
+  attributeBindings: ['type', 'checked', 'value', 'name']
 });
 
 export default RadioView;
