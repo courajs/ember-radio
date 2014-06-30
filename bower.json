@@ -1,0 +1,27 @@
+{
+  "name": "ember-radio",
+  "version": "0.0.0",
+  "homepage": "https://github.com/FellowMD/ember-radio",
+  "authors": [
+    "Aaron Sikes <jingadjanga@gmail.com>"
+  ],
+  "description": "A helper for working with radio buttons in Ember.js.",
+  "main": "ember-radio.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ember",
+    "ember.js",
+    "radio",
+    "button"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
